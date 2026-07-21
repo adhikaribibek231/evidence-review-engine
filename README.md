@@ -12,7 +12,7 @@ After running the pipeline, open this PDF to review the client-facing final draf
 
 ## Problem
 
-SunBridge Trading, a fictional importer, needs a clear document draft that they can share with a Nepal import agent for review. The manufacturer sent two PDFs, but the content is not fully consistent. The goal of this project is to read those documents, extract useful information, compare it with common Nepal import review expectations, and generate a careful draft that points out what is found, what is missing, and what does not match.
+SunBridge Trading, an importer, needs a clear document draft that they can share with a Nepal import agent for review. The manufacturer sent two PDFs, but the content is not fully consistent. The goal of this project is to read those documents, extract useful information, compare it with common Nepal import review expectations, and generate a careful draft that points out what is found, what is missing, and what does not match.
 
 This project does not certify compliance. It only prepares a review draft from the available documents.
 
