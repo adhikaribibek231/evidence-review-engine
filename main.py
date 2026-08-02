@@ -33,7 +33,7 @@ def main() -> None:
 
     print("1. Extracting text from PDFs...")
     for pdf_path in input_pdfs:
-        text_path = extract_text_from_pdf(pdf_path)
+        text_path: list[str] = extract_text_from_pdf(pdf_path)
         extracted_text_paths.append(text_path)
 
     extracted_facts_path = output_dir / "extracted_facts.json"
